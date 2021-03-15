@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm IqbalRizkiMaulana
+## I'm IqbalRizkiMaulana<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <img align="center" height="auto" src="https://github.com/IqballRizkiMaulana/IqballRizkiMaulana/blob/main/image/IqbalRizkiMaulana.jpg"/>
 
 ___
